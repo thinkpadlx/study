@@ -6,3 +6,6 @@ git add filename
 git commit -m "readme"
 git status  show status
 git diff filename
+git add 
+try add 
+tray agaign
